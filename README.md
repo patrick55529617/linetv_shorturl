@@ -6,7 +6,7 @@
 ## API Endpoint
 1. POST `/` -> Input desired long url to short url.
     - body: {"url": "***YOUR_LONG_URL***"}
-   Response: {"short_url": "RETURN_SHORU_URL"}
+    - response: {"short_url": "RETURN_SHORT_URL"}
 2. Get `/:id` -> Redirect to registered url.
     - parameter: id
 
