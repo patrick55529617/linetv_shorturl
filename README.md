@@ -12,3 +12,8 @@
 
 ## Database
 Use sqlite3 for demo easily
+
+
+## TODO
+1. Use postgresQL as database, and implement `docker-compose` to run all services.
+2. Write `unit test` for all endpoints.
